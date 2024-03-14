@@ -5,7 +5,7 @@ import Signform from "./components/Signform";
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center gap-[64px] bg-[url('./images/bg-intro-mobile.png')] bg-red-400 pt-[60px] pb-[70px]">
+    <div className="min-h-screen flex flex-col lg:flex-row items-center justify-center gap-[64px] lg:gap-[45px] bg-[url('./images/bg-intro-mobile.png')] bg-red-400 pt-[60px] pb-[70px]">
       <Description />
       <main className=" flex flex-col gap-[24px]">
         <Signform />
