@@ -61,7 +61,7 @@ function Signform() {
           </div>
           <p className="text-[11px] text-[#ff7979] font-[500]"></p>
         </div>
-        <button className="w-[279px] lg:w-[460px] h-[56px] rounded-[5px] bg-[#38cc8b] text-white text-[15px] font-[600] leading-[1.73] tracking-[1px] shadow-button">
+        <button className="w-[279px] lg:w-[460px] h-[56px] rounded-[5px] bg-[#38cc8b] text-white text-[15px] font-[600] leading-[1.73] tracking-[1px] shadow-button hover:bg-[#77e2b3] hover:cursor-pointer">
           CLAIM YOUR FREE TRIAL
         </button>
         <p className="text-[11px] leading-[21px] leading-[1.91] font-[500] text-[#bab7d4] text-center mt-[-8px] lg:mt-[-12px]">
