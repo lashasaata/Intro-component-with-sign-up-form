@@ -210,7 +210,8 @@ function Signform() {
           CLAIM YOUR FREE TRIAL
         </button>
         <p className="text-[11px] leading-[21px] leading-[1.91] font-[500] text-[#bab7d4] text-center mt-[-8px] lg:mt-[-12px]">
-          By clicking the button, you are agreeing to <br /> our
+          By clicking the button, you are agreeing to{" "}
+          <br className="lg:hidden" /> our
           <span className="text-[#ff7979] font-[700]"> Terms and Services</span>
         </p>
       </form>
