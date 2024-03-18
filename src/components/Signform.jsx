@@ -66,7 +66,6 @@ function Signform() {
       errors.password = "Password cannot be empty";
     }
     setUseFormErrors(errors);
-    console.log(useFormErrors);
   };
 
   const submitHandler = (e) => {
